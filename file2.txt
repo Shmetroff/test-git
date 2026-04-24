@@ -8,3 +8,4 @@ Another line from user2
 4 zxc
 5 123qwe
 Critical bug fixed
+Line from user2 - lesson about rebase
