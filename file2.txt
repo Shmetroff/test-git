@@ -7,3 +7,4 @@ Another line from user2
 3 asd
 4 zxc
 5 123qwe
+Critical bug fixed
