@@ -277,7 +277,7 @@ Equities, Others, 20
 [см. файл с описанием XYChart диаграмм](https://github.com/Shmetroff/test-git/blob/master/xycharts.md "Диаграммы XYChart")
 
 ### Временная шкала (Timeline)
-[см. файл с описанием Timeline диаграмм](https://github.com/Shmetroff/test-git/blob/master/timeline.md "Диаграммы Timeline")
+[см. файл с описанием Timeline диаграмм](https://github.com/Shmetroff/test-git/blob/master/timelines.md "Диаграммы Timeline")
 
 ### Диаграмма квадрантов (Quadrant chart)
 [см. файл с описанием Quadrant диаграмм](https://github.com/Shmetroff/test-git/blob/master/quadrantcharts.md "Диаграммы Quadrant")
