@@ -20,13 +20,16 @@ Mermaid не требует указывать имена сущностей с 
 
 ### Связи
 Отношения задаются с помощью следующей базовой конструкцией:
+
 `<first-entity> [<relationship> <second-entity> : <relationship-label>]`
+
 - first-entity — имя сущности;
 - relationship — описания способа связи;
 - second-entity — имя другой сущности;
 - relationship-label — описание отношения с точки зрения первой сущности.
 
 К примеру:
+
 `PROPERTY ||--|{ ROOM : contains`
 
 |Значение слева|Значение справа|Значение|
